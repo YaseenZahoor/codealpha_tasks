@@ -1,2 +1,1 @@
-#Task_1-Hangman-Game
 Create a Hangman game. In this game, there is a secret word chosen from a list of words. You have to guess what the word is by suggesting letters. You have six chances to guess the wrong letters. If you can guess all the letters in the word before you use up all six guesses, you win! But if you can't guess the word correctly within those six tries, you lose the game. So, try your best to figure out the word and win!
